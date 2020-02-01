@@ -12,3 +12,9 @@ To run on the benchmarks folder do:
 To run with a seperate input file, just do:
 `python3 sat_dpll.py --input_file your_file`
 
+## References
+
+- https://en.wikipedia.org/wiki/DPLL_algorithm
+- https://ths.rwth-aachen.de/wp-content/uploads/sites/4/teaching/vorlesung_satchecking/ws14_15/02a_sat_handout.pdf
+- http://www.cril.univ-artois.fr/~coste/Articles/coste-etal-sat05.pdf
+
